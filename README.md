@@ -4,10 +4,10 @@ Thanks for dropping by!
 
 My name is Grace and I'm a software engineer currently looking for work opportunities. 
 
-- 🔭 I’m currently working on building a mockup website for a backyard skate park business
+- 🔭 I’m currently working on building a mockup website for a backyard skate park startup business
 - 🌱 I’m currently learning React.js, PostgreSQL
 - 👯 I’m looking to collaborate on an open source project or building any type of web applications using React and/or Typescript
-- 📫 How to reach me: grace.wang95@yahoo.com
+- 📫 How to reach me: grace.wang95@yahoo.com / https://www.linkedin.com/in/grace-xiwen-wang/ 
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: Some of my Covid-19 hobbies are: longboarding, recreational diving, yoga 🧘🏻‍♀️ 
 
