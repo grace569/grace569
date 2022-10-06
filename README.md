@@ -4,7 +4,7 @@ Thanks for dropping by!
 
 My name is Grace and I'm a software engineer currently looking for work opportunities. 
 
-- 🔭 I’m currently working on building a mockup website for a backyard skate park startup business
+- 🔭 I’m currently working on building an image recognition web app
 - 🌱 I’m currently learning Typescript, React.js, PostgreSQL
 - 👯 I’m looking to collaborate on an open source project or building any type of web applications using React and/or Typescript
 - 📫 How to reach me: grace.wang95@yahoo.com / https://www.linkedin.com/in/grace-xiwen-wang/ 
