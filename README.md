@@ -6,7 +6,7 @@ My name is Grace and I'm a software engineer currently looking for work opportun
 
 - 🔭 I’m currently working on building an image recognition web app
 - 🌱 I’m currently learning Typescript, React.js, PostgreSQL
-- 👯 I’m looking to collaborate on an open source project or building any type of web applications using React and/or Typescript
+- 👯 I’m looking to collaborate on an open source project or building any type of web applications using React, Node and/or Typescript
 - 📫 How to reach me: grace.wang95@yahoo.com / https://www.linkedin.com/in/grace-xiwen-wang/ 
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: Some of my Covid-19 hobbies are: longboarding, recreational diving, yoga 🧘🏻‍♀️ 
