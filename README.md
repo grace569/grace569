@@ -25,3 +25,52 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<br/>
+<br/>
+<br/>
+
+# Styling demo
+## Styling Text
+You can style the text using several inline cues. For example, texts can be **bold** or *italicized*, **_or both if it's extremely important._** 
+<br/>
+~~I am always right~~ And sometimes we might make some mistakes, so the strikethrough is also available. 
+<br/>
+You can also do <sub>subscript</sub> and <sup>superscript</sup>, and insert quotes if you want to. Because why not? Like a great man once said 
+> You miss 100% of the shots you don’t take
+<br/>
+So have fun! 
+
+## Quoting code
+
+```
+this is what a block of code looks like
+SELECT * FROM SAMPLE_TABLE;
+```
+
+you can also quote `inline code` like this 
+
+## Link
+This README is built following [this style guide](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+
+## Lists
+### Ordered list
+  1. this is a list
+  2. it does really matter what number you type
+  100. as long as it's a number
+  9. it will show up correctly 
+### Unordered lists
+  - They can be anything in -, *, +
+  + and can also be mixed
+    + or nested like this
+   
+## Tables 
+You can create tables with pipes | and hyphens -. Hyphens are used to create each column's header, while pipes separate each column. You must include a blank line before your table in order for it to correctly render.
+Tables are a little tricky in .md files, because you need to manually add each row: 
+
+| Command | Description |
+| --- | --- |
+| git status | List all new or modified files |
+| git diff | Show file differences that haven't been staged |
+
+
